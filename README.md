@@ -17,18 +17,18 @@ A static map that plots all bike stations with a visual indication of the most p
 	* 
 1 Storyboard
 
-Method
+Method:
 First the data was downloaded from the Citi Bike Data webpage
 The data was cleaned and CRUD performed in Jupyter Notebook "CRUD bike data.ipynb"
 Cleaned data was unionised in Tableau and the following:
 
-Results
+Results:
 Discovery of the 2 phenomena:
 1) Gender gap - citi bike sharing system is used triple the amount more by males than females
 2) People born in 1969, was surprisingly, ranked as one of the highest users of the bike system
 
-City Official Map
+City Official Map:
 Maps that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top, plus population details.
 
-Storyboard
+Storyboard:
 Tableau storyboard that brings together the visualizations, maps, and dashboards.
