@@ -17,9 +17,6 @@ A static map that plots all bike stations with a visual indication of the most p
 	* 
 1 Storyboard
 
-
-
-
 Method
 First the data was downloaded from the Citi Bike Data webpage
 The data was cleaned and CRUD performed in Jupyter Notebook "CRUD bike data.ipynb"
@@ -31,6 +28,7 @@ Discovery of the 2 phenomena:
 2) People born in 1969, was surprisingly, ranked as one of the highest users of the bike system
 
 City Official Map
-A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
+Maps that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top, plus population details.
+
 Storyboard
-Tableau storyboard that brings together the visualizations, requested maps, and dashboards.
+Tableau storyboard that brings together the visualizations, maps, and dashboards.
